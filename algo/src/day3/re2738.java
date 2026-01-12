@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class re2738 {
-    //2738 복습 (260112)..
+    //2738 복습 (260112)
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(
             new InputStreamReader(System.in)
