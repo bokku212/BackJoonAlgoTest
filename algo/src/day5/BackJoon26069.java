@@ -25,12 +25,12 @@ public class BackJoon26069 {
             String A = st.nextToken();
             String B = st.nextToken();
 
-            if(A == ChongChong ||B==ChongChong){
-                result += 1;
-                //총총이를 만난 줄 그 다음줄부터 서로 다른 사람들이 만난것에 대해 +1 을 어떻게 써야하는지 고민 배열로 ?
-                //총총이 이름은 문자인데 int랑 어떻게 비교해야할지도 고민 , 처음엔 모두 string으로 비교하고 나중에 그 중복아닌 갯수를 세서 result 해야하나?
-
-            }
+//            if(A == ChongChong ||B==ChongChong){
+//                result += 1;
+//                //총총이를 만난 줄 그 다음줄부터 서로 다른 사람들이 만난것에 대해 +1 을 어떻게 써야하는지 고민 배열로 ?
+//                //총총이 이름은 문자인데 int랑 어떻게 비교해야할지도 고민 , 처음엔 모두 string으로 비교하고 나중에 그 중복아닌 갯수를 세서 result 해야하나?
+//
+//            }
 
 
 
