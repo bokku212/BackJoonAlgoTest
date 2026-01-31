@@ -10,6 +10,7 @@ public class BackJoon26069 {
     //https://www.acmicpc.net/problem/26069
     // 제목 : 붙임성 좋은 총총이
     // 처음에 문제이해가 잘 안되어 헤멤
+    // 지피티 봐도 잘 이해안되어서 보류
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(
             new InputStreamReader(System.in)
